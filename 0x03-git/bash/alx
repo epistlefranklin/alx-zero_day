@@ -1,6 +1,2 @@
 #!/bin/bash
 echo "ALX School"
-cat school
-cat > school
-#!/bin/bash
-echo "The school is open!"
